@@ -4,6 +4,9 @@ In this application we use the Redux Toolkit to maintain the global state of the
 
 It consists of a list of tasks where we can consult them, delete them and a form where we can create and edit them.
 
+![](https://i.ibb.co/YZQqbSv/redux-toolkit-tasks.png")
+![](https://i.ibb.co/5BNNnfq/redux-toolkit-tasks-form.png)
+
 ## 💻 Quick start
 
 To deploy this project, you must first install the node_modules packages. To do this, open a console with the main path of the project and run:
